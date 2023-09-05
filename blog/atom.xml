@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lnm-portfolio/blog</id>
-    <title>My Site Blog</title>
+    <title>Lauren Murphy's Porfolio site Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lnm-portfolio/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Lauren Murphy's Porfolio site Blog</subtitle>
     <icon>https://github.com/lnm-portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
