@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklnm_portfolio=self.webpackChunklnm_portfolio||[]).push([[1440],{8926:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/lnm-portfolio/blog/tags/facebook","allTagsPath":"/lnm-portfolio/blog/tags","count":1}')}}]);

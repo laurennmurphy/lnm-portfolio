@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklnm_portfolio=self.webpackChunklnm_portfolio||[]).push([[8535],{8440:o=>{o.exports=JSON.parse('{"permalink":"/lnm-portfolio/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

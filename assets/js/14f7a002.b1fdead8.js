@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklnm_portfolio=self.webpackChunklnm_portfolio||[]).push([[889],{9711:o=>{o.exports=JSON.parse('{"permalink":"/lnm-portfolio/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

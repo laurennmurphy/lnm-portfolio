@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklnm_portfolio=self.webpackChunklnm_portfolio||[]).push([[5972],{1868:o=>{o.exports=JSON.parse('{"permalink":"/lnm-portfolio/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
